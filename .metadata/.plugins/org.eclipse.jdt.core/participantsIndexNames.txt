@@ -1,17 +1,3 @@
 INDEX VERSION 1.132
-D:\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3408361105.index
+D:\web_1400_ljm\test2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\22588575.index
 \bbagym\src\main\java
-D:\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3199849939.index
-\bbagym2\src\main\java
-D:\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3347215100.index
-\bbagym2\src\main\java
-D:\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1248852004.index
-\bbagym2\src\main\java
-D:\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\22588575.index
-\bbagym\src\main\java
-D:\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2905471582.index
-\bbagym\src\main\java
-D:\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3795945603.index
-\bbagym\src\main\java
-D:\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3860508389.index
-\bbagym2\src\main\java
