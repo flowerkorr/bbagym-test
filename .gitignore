@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+/.metadata/
+=======
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,eclipse
 
@@ -113,3 +116,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,eclipse
+>>>>>>> 3836a070340973730181c74706b3e38216bf359b
